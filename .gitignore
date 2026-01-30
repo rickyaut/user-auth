@@ -1,0 +1,10 @@
+backend/__pycache__
+backend/.pytest_cache
+backend/*.db
+backend/.venv
+frontend/node_modules
+frontend/build/asset-manifest.json
+frontend/build/index.html
+frontend/build/static/js
+frontend/src/api/.openapi-generator
+cookies.txt
